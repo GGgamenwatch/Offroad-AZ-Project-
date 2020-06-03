@@ -1,0 +1,98 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.zoomeffect-1 {
+    float: left;
+    overflow: hidden;
+    width: 230px;
+    height: 340px;
+    object-fit: contain;
+    background-color: dimgray;
+    margin: 17px;
+    border-radius: 10px;
+}
+.zoomeffect-1:hover{
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+.zoomeffect-1{
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.zoomeffect-2 {
+    float: left;
+    overflow: hidden;
+    width: 230px;
+    height: 340px;
+    object-fit: contain;
+    background-color: dimgray;
+    margin: 17px;
+    border-radius: 10px;
+}
+.zoomeffect-2:hover{
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+.zoomeffect-2{
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.zoomeffect-3 {
+    float: left;
+    overflow: hidden;
+    width: 230px;
+    height: 340px;
+    object-fit: contain;
+    background-color: dimgray;
+    margin: 17px;
+    border-radius: 10px;
+}
+.zoomeffect-3:hover{
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+.zoomeffect-3{
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.zoomeffect-4 {
+    float: left;
+    overflow: hidden;
+    width: 230px;
+    height: 340px;
+    object-fit: contain;
+    background-color: dimgray;
+    margin: 17px;
+    border-radius: 10px;
+}
+.zoomeffect-4:hover{
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+.zoomeffect-4{
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.container{
+    text-align: center;
+    margin: auto;
+}
+.img{
+    position: absolute;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
